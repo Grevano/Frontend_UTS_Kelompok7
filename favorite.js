@@ -1,5 +1,4 @@
 document.addEventListener('DOMContentLoaded', () => {
-    // Ambil elemen DOM
     const grid = document.getElementById('favorite-grid');
     const model = document.getElementById('model');
     const modelBody = document.getElementById('model-body');
@@ -48,7 +47,7 @@ document.addEventListener('DOMContentLoaded', () => {
         const index = favorites.indexOf(id);
         if (index > -1) favorites.splice(index, 1);
         localStorage.setItem('favorites', JSON.stringify(favorites));
-        renderFavorites(); // Render ulang halaman favorit
+        renderFavorites(); 
     }
 
     function showModel(id) {
