@@ -1,5 +1,4 @@
 document.addEventListener('DOMContentLoaded', () => {
-    // Ambil elemen DOM
     const grid = document.getElementById('instrument-grid');
     const searchInput = document.getElementById('search-input');
     const filterDaerah = document.getElementById('filter-daerah');

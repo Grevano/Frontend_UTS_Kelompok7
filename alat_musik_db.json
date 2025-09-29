@@ -18,7 +18,7 @@
         "tahun": "Abad ke-7",
         "sejarah": "Berasal dari Pulau Rote, NTT. Legenda menceritakan alat musik ini diciptakan dari inspirasi jaring laba-laba.",
         "kegunaan": "Mengiringi nyanyian, tarian, dan syair dalam acara adat masyarakat Rote.",
-        "gambar": "assets/sasando.jpg"
+        "gambar": "assets/images/sasando.jpg"
     },
 
     {
@@ -29,7 +29,7 @@
         "tahun": "Zaman Prasejarah",
         "sejarah": "Awalnya terbuat dari bilah-bilah kayu yang diletakkan berjajar. Nama Kolintang berasal dari bunyi 'tong-ting-tang'.",
         "kegunaan": "Sebagai pengiring tarian, nyanyian, dan upacara adat Minahasa.",
-        "gambar": "assets/kolintang.jpg"
+        "gambar": "assets/images/kolintang.jpg"
     },
 
     {
@@ -40,7 +40,7 @@
         "tahun": "Abad ke-8",
         "sejarah": "Merupakan ansambel musik yang menonjolkan metalofon, gambang, gendang, dan gong. Sangat berkembang di era kerajaan Hindu-Buddha.",
         "kegunaan": "Mengiringi pertunjukan wayang, tari, upacara keagamaan, dan konser mandiri.",
-        "gambar": "assets/gamelan.jpg"
+        "gambar": "assets/images/gamelan.jpg"
     },
 
     {
@@ -51,7 +51,7 @@
         "tahun": "Zaman Prasejarah",
         "sejarah": "Mirip dengan gendang, dibuat dari sebatang kayu yang dilubangi dan salah satu sisinya ditutup kulit hewan (biasanya rusa).",
         "kegunaan": "Instrumen utama dalam upacara adat, mengiringi tarian perang, dan sebagai alat komunikasi.",
-        "gambar": "assets/tifa.jpg"
+        "gambar": "assets/images/tifa.jpg"
     },
 
     {
@@ -62,6 +62,6 @@
         "tahun": "Abad ke-15",
         "sejarah": "Merupakan alat musik utama dalam Tembang Sunda atau Mamaos Cianjuran. Sering dimainkan bersama suling.",
         "kegunaan": "Mengiringi puisi epik (pantun Sunda), musik instrumental, dan sebagai hiburan.",
-        "gambar": "assets/kecapi.jpg"
+        "gambar": "assets/images/kecapi.jpg"
     }
 ]
