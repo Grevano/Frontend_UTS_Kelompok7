@@ -7,8 +7,9 @@
         "tahun": "Abad ke-12",
         "sejarah": "Angklung berkembang di kalangan masyarakat Sunda dan digunakan dalam berbagai upacara adat, terutama yang berkaitan dengan pertanian.",
         "kegunaan": "Digunakan dalam pertunjukan musik, upacara adat, dan sebagai sarana pendidikan musik.",
-        "gambar": "assets/Angklung.jpg"
+        "gambar": "assets/images/Angklung.jpg"
     },
+
     {
         "id": 2,
         "nama": "Sasando",
@@ -19,6 +20,7 @@
         "kegunaan": "Mengiringi nyanyian, tarian, dan syair dalam acara adat masyarakat Rote.",
         "gambar": "assets/images/sasando.jpg"
     },
+
     {
         "id": 3,
         "nama": "Kolintang",
@@ -29,6 +31,7 @@
         "kegunaan": "Sebagai pengiring tarian, nyanyian, dan upacara adat Minahasa.",
         "gambar": "assets/images/kolintang.jpg"
     },
+
     {
         "id": 4,
         "nama": "Gamelan",
@@ -37,8 +40,9 @@
         "tahun": "Abad ke-8",
         "sejarah": "Merupakan ansambel musik yang menonjolkan metalofon, gambang, gendang, dan gong. Sangat berkembang di era kerajaan Hindu-Buddha.",
         "kegunaan": "Mengiringi pertunjukan wayang, tari, upacara keagamaan, dan konser mandiri.",
-        "gambar": "assets/images/gamelan.jpg"
+        "gambar": "assets/gamelan.jpg"
     },
+
     {
         "id": 5,
         "nama": "Tifa",
@@ -47,8 +51,9 @@
         "tahun": "Zaman Prasejarah",
         "sejarah": "Mirip dengan gendang, dibuat dari sebatang kayu yang dilubangi dan salah satu sisinya ditutup kulit hewan (biasanya rusa).",
         "kegunaan": "Instrumen utama dalam upacara adat, mengiringi tarian perang, dan sebagai alat komunikasi.",
-        "gambar": "assets/images/tifa.jpg"
+        "gambar": "assets/tifa.jpg"
     },
+
     {
         "id": 6,
         "nama": "Kecapi",
@@ -57,6 +62,6 @@
         "tahun": "Abad ke-15",
         "sejarah": "Merupakan alat musik utama dalam Tembang Sunda atau Mamaos Cianjuran. Sering dimainkan bersama suling.",
         "kegunaan": "Mengiringi puisi epik (pantun Sunda), musik instrumental, dan sebagai hiburan.",
-        "gambar": "assets/images/kecapi.jpg"
+        "gambar": "assets/kecapi.jpg"
     }
 ]
