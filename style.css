@@ -434,14 +434,17 @@ footer {
     }
     .controls {
         flex-direction: column;
+        padding-left: 1.5rem;
+        padding-right: 1.5rem;
     }
-    .about-page {
-        padding: 2rem;
+
+    .filters {
+        flex-direction: column;
+        width: 100%;
     }
-    #model-body {
-        padding: 1.5rem;
-    }
-    #model-body img {
-        /* Dihapus karena gaya baru lebih baik untuk responsivitas */
+
+    .controls input,
+    .controls select {
+        width: 100%;
     }
 }
