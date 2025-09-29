@@ -1,0 +1,58 @@
+<!DOCTYPE html>
+<html lang="id">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Alat Musik Nusantara</title>
+    <link rel="stylesheet" href="style.css">
+    <link href="https://fonts.googleapis.com/css2?family=Merriweather:wght@400;700&family=Poppins:wght@400;600&display=swap" rel="stylesheet">
+</head>
+<body>
+    <header>
+        <nav>
+            <a href="index.html" class="logo">Nusantara<span>Vibes</span> 🎶</a>
+            <ul>
+                <li><a href="index.html">Beranda</a></li>
+                <li><a href="favorite.html">Favorit</a></li> 
+                <li><a href="about.html">Tentang</a></li>
+            </ul>
+        </nav>
+    </header>
+
+    <main>
+        <section class="hero">
+            <h1>Jelajahi Kekayaan Melodi Tradisional Indonesia</h1>
+            <p>Temukan alat musik dari berbagai penjuru nusantara, dari Sabang hingga Merauke.</p>
+        </section>
+
+        <section class="controls">
+            <input type="text" id="search-input" placeholder="Cari alat musik...">
+            <div class="filters">
+                <select id="filter-daerah">
+                    <option value="">Semua Daerah</option>
+                    </select>
+                <select id="filter-tipe">
+                    <option value="">Semua Tipe</option>
+                    </select>
+            </div>
+        </section>
+
+        <section id="instrument-grid" class="grid-container">
+            </section>
+    </main>
+
+    <footer>
+        <p>&copy; 2025 NusantaraVibes.</p>
+    </footer>
+
+    <div id="model" class="model-overlay">
+        <div class="model-content">
+            <span class="close-button">&times;</span>
+            <div id="model-body">
+                </div>
+        </div>
+    </div>
+
+    <script src="script.js"></script>
+</body>
+</html>
