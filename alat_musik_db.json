@@ -3,65 +3,382 @@
         "id": 1,
         "nama": "Angklung",
         "daerah": "Jawa Barat",
-        "tipe": "Pukul",
+        "tipe": "Pukul (Idiofon)",
         "tahun": "Abad ke-12",
-        "sejarah": "Angklung berkembang di kalangan masyarakat Sunda dan digunakan dalam berbagai upacara adat, terutama yang berkaitan dengan pertanian.",
-        "kegunaan": "Digunakan dalam pertunjukan musik, upacara adat, dan sebagai sarana pendidikan musik.",
+        "sejarah": "Angklung adalah alat musik multitonal yang berkembang dari masyarakat Sunda. Terbuat dari bambu, dibunyikan dengan cara digoyangkan sehingga menghasilkan nada yang bergetar.",
+        "kegunaan": "Digunakan dalam upacara adat, pertunjukan seni, sarana pendidikan, hingga terapi musik.",
         "gambar": "assets/images/angklung.jpg"
     },
-
     {
         "id": 2,
         "nama": "Sasando",
         "daerah": "Nusa Tenggara Timur",
-        "tipe": "Petik",
+        "tipe": "Petik (Kordofon)",
         "tahun": "Abad ke-7",
-        "sejarah": "Berasal dari Pulau Rote, NTT. Legenda menceritakan alat musik ini diciptakan dari inspirasi jaring laba-laba.",
+        "sejarah": "Berasal dari Pulau Rote, NTT. Bagian utamanya berbentuk tabung bambu dengan rentangan dawai yang diapit oleh wadah resonansi dari anyaman daun lontar.",
         "kegunaan": "Mengiringi nyanyian, tarian, dan syair dalam acara adat masyarakat Rote.",
         "gambar": "assets/images/sasando.jpg"
     },
-
     {
         "id": 3,
         "nama": "Kolintang",
         "daerah": "Sulawesi Utara",
-        "tipe": "Pukul",
+        "tipe": "Pukul (Idiofon)",
         "tahun": "Zaman Prasejarah",
-        "sejarah": "Awalnya terbuat dari bilah-bilah kayu yang diletakkan berjajar. Nama Kolintang berasal dari bunyi 'tong-ting-tang'.",
-        "kegunaan": "Sebagai pengiring tarian, nyanyian, dan upacara adat Minahasa.",
+        "sejarah": "Awalnya terbuat dari bilah-bilah kayu lokal yang ringan namun kuat. Nama Kolintang berasal dari bunyinya: TONG (nada rendah), TING (nada tinggi), dan TANG (nada tengah).",
+        "kegunaan": "Sebagai pengiring tarian, nyanyian, dan upacara adat masyarakat Minahasa.",
         "gambar": "assets/images/kolintang.jpg"
     },
-
     {
         "id": 4,
         "nama": "Gamelan",
         "daerah": "Jawa & Bali",
-        "tipe": "Pukul",
+        "tipe": "Pukul (Ansambel)",
         "tahun": "Abad ke-8",
         "sejarah": "Merupakan ansambel musik yang menonjolkan metalofon, gambang, gendang, dan gong. Sangat berkembang di era kerajaan Hindu-Buddha.",
         "kegunaan": "Mengiringi pertunjukan wayang, tari, upacara keagamaan, dan konser mandiri.",
         "gambar": "assets/images/gamelan.jpg"
     },
-
     {
         "id": 5,
         "nama": "Tifa",
         "daerah": "Papua & Maluku",
-        "tipe": "Pukul",
+        "tipe": "Pukul (Membranofon)",
         "tahun": "Zaman Prasejarah",
-        "sejarah": "Mirip dengan gendang, dibuat dari sebatang kayu yang dilubangi dan salah satu sisinya ditutup kulit hewan (biasanya rusa).",
+        "sejarah": "Mirip dengan gendang, dibuat dari sebatang kayu yang dilubangi dan salah satu sisinya ditutup kulit hewan (biasanya rusa atau biawak).",
         "kegunaan": "Instrumen utama dalam upacara adat, mengiringi tarian perang, dan sebagai alat komunikasi.",
         "gambar": "assets/images/tifa.jpg"
     },
-
     {
         "id": 6,
         "nama": "Kecapi",
         "daerah": "Jawa Barat",
-        "tipe": "Petik",
+        "tipe": "Petik (Kordofon)",
         "tahun": "Abad ke-15",
-        "sejarah": "Merupakan alat musik utama dalam Tembang Sunda atau Mamaos Cianjuran. Sering dimainkan bersama suling.",
+        "sejarah": "Merupakan alat musik utama dalam Tembang Sunda atau Mamaos Cianjuran. Sering dimainkan bersama suling untuk menciptakan alunan musik yang meditatif.",
         "kegunaan": "Mengiringi puisi epik (pantun Sunda), musik instrumental, dan sebagai hiburan.",
         "gambar": "assets/images/kecapi.jpg"
+    },
+    {
+        "id": 7,
+        "nama": "Saluang",
+        "daerah": "Sumatera Barat",
+        "tipe": "Tiup (Aerofon)",
+        "tahun": "Tidak diketahui",
+        "sejarah": "Seruling bambu tipis khas Minangkabau yang memiliki empat lubang. Diyakini sebagai alat musik warisan nenek moyang yang magis.",
+        "kegunaan": "Mengiringi dendang (nyanyian ratapan), pertunjukan randai, dan upacara adat.",
+        "gambar": "assets/images/saluang.jpg"
+    },
+    {
+        "id": 8,
+        "nama": "Rebab",
+        "daerah": "Jawa, Sumatera, Kalimantan",
+        "tipe": "Gesek (Kordofon)",
+        "tahun": "Abad ke-8",
+        "sejarah": "Merupakan adaptasi dari instrumen serupa dari Timur Tengah. Terbuat dari kayu nangka dengan tabung resonansi yang ditutup kulit tipis.",
+        "kegunaan": "Sebagai 'pemimpin lagu' dalam Gamelan, mengiringi tembang, dan pertunjukan seni.",
+        "gambar": "assets/images/rebab.jpg"
+    },
+    {
+        "id": 9,
+        "nama": "Bonang",
+        "daerah": "Jawa Tengah",
+        "tipe": "Pukul (Idiofon)",
+        "tahun": "Abad ke-12",
+        "sejarah": "Bagian dari set Gamelan, terdiri dari serangkaian gong kecil (disebut 'pencon') yang diletakkan secara horizontal di atas tali dalam sebuah bingkai kayu.",
+        "kegunaan": "Sebagai instrumen melodi dan ritmis dalam Gamelan, sering digunakan pada intro sebuah komposisi.",
+        "gambar": "assets/images/bonang.jpg"
+    },
+    {
+        "id": 10,
+        "nama": "Sape",
+        "daerah": "Kalimantan Timur",
+        "tipe": "Petik (Kordofon)",
+        "tahun": "Tidak diketahui",
+        "sejarah": "Gitar tradisional Suku Dayak, dibuat dari satu batang kayu Adau yang dilubangi. Awalnya digunakan untuk mengiringi tarian dan ritual pengobatan.",
+        "kegunaan": "Musik ritual, pengiring tarian, dan kini populer sebagai instrumen solo dalam musik dunia (world music).",
+        "gambar": "assets/images/sape.jpg"
+    },
+    {
+        "id": 11,
+        "nama": "Gendang Melayu",
+        "daerah": "Sumatera & Kepulauan Riau",
+        "tipe": "Pukul (Membranofon)",
+        "tahun": "Tidak diketahui",
+        "sejarah": "Gendang dua sisi yang menjadi tulang punggung ritme dalam musik Melayu. Biasanya dimainkan bersama biola dan gong untuk mengiringi tarian.",
+        "kegunaan": "Menjaga tempo dalam musik Ghazal, Zapin, dan berbagai pertunjukan seni Melayu.",
+        "gambar": "assets/images/gendang_melayu.jpg"
+    },
+    {
+        "id": 12,
+        "nama": "Ceng-Ceng",
+        "daerah": "Bali",
+        "tipe": "Pukul (Idiofon)",
+        "tahun": "Tidak diketahui",
+        "sejarah": "Simbal khas Bali yang terdiri dari beberapa lempengan logam bundar. Bagian bawahnya statis, sementara bagian atasnya dipukulkan untuk menghasilkan suara 'ceng'.",
+        "kegunaan": "Memberikan aksentuasi ritmis yang tajam dalam Gamelan Bali.",
+        "gambar": "assets/images/ceng_ceng.jpg"
+    },
+    {
+        "id": 13,
+        "nama": "Panting",
+        "daerah": "Kalimantan Selatan",
+        "tipe": "Petik (Kordofon)",
+        "tahun": "Abad ke-18",
+        "sejarah": "Alat musik petik mirip gambus yang menjadi ciri khas Suku Banjar. Terbuat dari kayu nangka, labu air, dan kulit.",
+        "kegunaan": "Mengiringi lagu-lagu Banjar, pertunjukan teater Mamanda, dan acara pernikahan.",
+        "gambar": "assets/images/panting.jpg"
+    },
+    {
+        "id": 14,
+        "nama": "Gambus",
+        "daerah": "Riau & Melayu",
+        "tipe": "Petik (Kordofon)",
+        "tahun": "Abad ke-15",
+        "sejarah": "Adaptasi dari alat musik 'Oud' dari Arab, Gambus menjadi pusat dari musik zapin dan ghazal. Memiliki bentuk seperti buah labu terbelah.",
+        "kegunaan": "Instrumen utama dalam orkes Gambus, mengiringi nyanyian bernuansa Islami dan tari Zapin.",
+        "gambar": "assets/images/gambus.jpg"
+    },
+    {
+        "id": 15,
+        "nama": "Suling",
+        "daerah": "Jawa Barat (Sunda)",
+        "tipe": "Tiup (Aerofon)",
+        "tahun": "Tidak diketahui",
+        "sejarah": "Seruling bambu dengan ciri khas enam lubang jari. Suling Sunda dikenal karena suaranya yang lembut dan mendayu-dayu, sering dipadukan dengan Kecapi.",
+        "kegunaan": "Sebagai pembawa melodi dalam musik Tembang Sunda, Cianjuran, dan degung.",
+        "gambar": "assets/images/suling.jpg"
+    },
+    {
+        "id": 16,
+        "nama": "Gambang",
+        "daerah": "Jawa & Bali",
+        "tipe": "Pukul (Idiofon)",
+        "tahun": "Abad ke-8",
+        "sejarah": "Alat musik pukul yang terdiri dari bilah-bilah kayu yang disusun secara horizontal pada sebuah bingkai. Bagian dari ansambel Gamelan.",
+        "kegunaan": "Memainkan melodi pokok atau balungan dalam komposisi Gamelan.",
+        "gambar": "assets/images/gambang.jpg"
+    },
+    {
+        "id": 17,
+        "nama": "Tehyan",
+        "daerah": "DKI Jakarta (Betawi)",
+        "tipe": "Gesek (Kordofon)",
+        "tahun": "Tidak diketahui",
+        "sejarah": "Alat musik gesek yang merupakan hasil akulturasi budaya Tionghoa di Betawi. Terbuat dari batok kelapa sebagai resonatornya.",
+        "kegunaan": "Instrumen penting dalam orkes Gambang Kromong untuk mengiringi lagu-lagu Betawi.",
+        "gambar": "assets/images/tehyan.jpg"
+    },
+    {
+        "id": 18,
+        "nama": "Serunai",
+        "daerah": "Sumatera Barat",
+        "tipe": "Tiup (Aerofon)",
+        "tahun": "Tidak diketahui",
+        "sejarah": "Alat musik tiup dengan lidah getar ganda (double reed), menghasilkan suara melengking yang khas. Terinspirasi dari Shehnai dari India.",
+        "kegunaan": "Digunakan dalam acara-acara keramaian seperti silat, penyambutan tamu, dan hajatan.",
+        "gambar": "assets/images/serunai.jpg"
+    },
+    {
+        "id": 19,
+        "nama": "Calung",
+        "daerah": "Jawa Barat",
+        "tipe": "Pukul (Idiofon)",
+        "tahun": "Tidak diketahui",
+        "sejarah": "Prototipe dari Angklung, namun dimainkan dengan cara dipukul bilah-bilah bambunya. Ada dua jenis: Calung Rantay dan Calung Jinjing.",
+        "kegunaan": "Sebagai alat musik hiburan rakyat dengan sajian humor dan lagu-lagu Sunda populer.",
+        "gambar": "assets/images/calung.jpg"
+    },
+    {
+        "id": 20,
+        "nama": "Gong Ageng",
+        "daerah": "Jawa Tengah",
+        "tipe": "Pukul (Idiofon)",
+        "tahun": "Abad ke-9",
+        "sejarah": "Gong terbesar dalam set Gamelan yang digantung vertikal. Dianggap sebagai 'roh' dari Gamelan dan sangat dihormati.",
+        "kegunaan": "Sebagai penanda akhir dari siklus melodi (gongan) terbesar dalam sebuah komposisi Gamelan.",
+        "gambar": "assets/images/gong_ageng.jpg"
+    },
+    {
+        "id": 21,
+        "nama": "Kendang",
+        "daerah": "Jawa & Bali",
+        "tipe": "Pukul (Membranofon)",
+        "tahun": "Abad ke-9",
+        "sejarah": "Gendang dua sisi yang berfungsi sebagai 'dirigen' atau pemimpin irama dalam ansambel Gamelan. Pemain kendang memberikan isyarat tempo dan dinamika.",
+        "kegunaan": "Mengatur irama, tempo, dan dinamika dalam musik Gamelan dan mengiringi tarian.",
+        "gambar": "assets/images/kendang.jpg"
+    },
+    {
+        "id": 22,
+        "nama": "Genggong",
+        "daerah": "Bali & Lombok",
+        "tipe": "Getar (Idiofon)",
+        "tahun": "Tidak diketahui",
+        "sejarah": "Jew's harp atau harpa mulut yang terbuat dari pelepah enau atau bambu. Dibunyikan dengan mendekatkannya ke mulut dan menarik-narik ujungnya.",
+        "kegunaan": "Sebagai alat musik hiburan personal dan ansambel kecil, menghasilkan suara unik meniru suara katak.",
+        "gambar": "assets/images/genggong.jpg"
+    },
+    {
+        "id": 23,
+        "nama": "Siter",
+        "daerah": "Jawa Tengah",
+        "tipe": "Petik (Kordofon)",
+        "tahun": "Tidak diketahui",
+        "sejarah": "Alat musik petik dalam Gamelan yang memiliki 11 hingga 13 pasang senar. Dimainkan dengan kecepatan tinggi untuk mengisi pola-pola melodi.",
+        "kegunaan": "Memainkan cengkok atau pola melodi cepat (panerusan) dalam ansambel Gamelan.",
+        "gambar": "assets/images/siter.jpg"
+    },
+    {
+        "id": 24,
+        "nama": "Jatung Utang",
+        "daerah": "Kalimantan Timur",
+        "tipe": "Pukul (Idiofon)",
+        "tahun": "Tidak diketahui",
+        "sejarah": "Xylophone atau gambang besar yang terbuat dari bilah-bilah kayu besar, khas suku Dayak Kenyah.",
+        "kegunaan": "Mengiringi tarian dan upacara adat Suku Dayak Kenyah.",
+        "gambar": "assets/images/jatung_utang.jpg"
+    },
+    {
+        "id": 25,
+        "nama": "Triton",
+        "daerah": "Papua & Maluku",
+        "tipe": "Tiup (Aerofon)",
+        "tahun": "Zaman Prasejarah",
+        "sejarah": "Alat musik tiup yang terbuat dari cangkang kerang (sea shell). Telah digunakan oleh masyarakat pesisir sejak zaman dahulu.",
+        "kegunaan": "Sebagai alat panggil, sarana komunikasi, dan pengiring tarian dalam upacara adat.",
+        "gambar": "assets/images/triton.jpg"
+    },
+    {
+        "id": 26,
+        "nama": "Taganing",
+        "daerah": "Sumatera Utara (Batak)",
+        "tipe": "Pukul (Membranofon)",
+        "tahun": "Tidak diketahui",
+        "sejarah": "Satu set gendang yang terdiri dari lima buah gendang yang digantung dan memiliki nada yang berbeda-beda.",
+        "kegunaan": "Sebagai pembawa melodi dan ritme dalam ansambel Gondang Sabangunan.",
+        "gambar": "assets/images/taganing.jpg"
+    },
+    {
+        "id": 27,
+        "nama": "Aramba",
+        "daerah": "Sumatera Utara (Nias)",
+        "tipe": "Pukul (Idiofon)",
+        "tahun": "Tidak diketahui",
+        "sejarah": "Gong yang terbuat dari tembaga, kuningan, atau nikel. Aramba menjadi simbol status sosial dan digunakan dalam upacara adat Nias.",
+        "kegunaan": "Digunakan dalam upacara pernikahan, kematian, dan ritual adat lainnya di Nias.",
+        "gambar": "assets/images/aramba.jpg"
+    },
+    {
+        "id": 28,
+        "nama": "Doli-Doli",
+        "daerah": "Sumatera Utara (Nias)",
+        "tipe": "Pukul (Idiofon)",
+        "tahun": "Tidak diketahui",
+        "sejarah": "Xylophone sederhana yang terbuat dari empat bilah kayu atau bambu yang diletakkan di atas pangkuan pemain.",
+        "kegunaan": "Sebagai alat musik hiburan dan dimainkan oleh anak-anak dan remaja Nias.",
+        "gambar": "assets/images/doli_doli.jpg"
+    },
+    {
+        "id": 29,
+        "nama": "Burdah",
+        "daerah": "Sumatera Selatan",
+        "tipe": "Pukul (Membranofon)",
+        "tahun": "Tidak diketahui",
+        "sejarah": "Gendang besar dua sisi yang terbuat dari kulit kerbau atau sapi, sering dihubungkan dengan penyebaran Islam.",
+        "kegunaan": "Digunakan dalam upacara keagamaan dan mengiringi musik bernuansa Islami.",
+        "gambar": "assets/images/burdah.jpg"
+    },
+    {
+        "id": 30,
+        "nama": "Serdam",
+        "daerah": "Lampung",
+        "tipe": "Tiup (Aerofon)",
+        "tahun": "Tidak diketahui",
+        "sejarah": "Seruling bambu dengan lima lubang yang menghasilkan tangga nada pentatonis. Ditiup dari bagian ujungnya.",
+        "kegunaan": "Digunakan untuk mengiringi sastra lisan dan sebagai musik hiburan pribadi.",
+        "gambar": "assets/images/serdam.jpg"
+    },
+
+    {
+        "id": 31,
+        "nama": "Kompang",
+        "daerah": "Riau & Melayu",
+        "tipe": "Pukul (Membranofon)",
+        "tahun": "Tidak diketahui",
+        "sejarah": "Alat musik pukul yang mirip rebana, terbuat dari kayu dan kulit kambing. Sering digunakan dalam pertunjukan musik Islami.",
+        "kegunaan": "Mengiringi lagu-lagu religi, pertunjukan seni, dan acara pernikahan.",
+        "gambar": "assets/images/kompang.jpg"
+    },
+
+    {
+        "id": 32,
+        "nama": "Kendang Minang",
+        "daerah": "Sumatera Barat",
+        "tipe": "Pukul (Membranofon)",
+        "tahun": "Tidak diketahui",
+        "sejarah": "Gendang dua sisi yang lebih kecil dari gendang Jawa, dimainkan dengan cara dipukul menggunakan tangan. Memiliki peran penting dalam musik tradisional Minangkabau.",
+        "kegunaan": "Mengiringi tari-tarian tradisional seperti Tari Piring dan Randai, serta upacara adat.",
+        "gambar": "assets/images/kendang_minang.jpg"
+    },
+    {
+        "id": 33,
+        "nama": "Demung",
+        "daerah": "Jawa & Bali",
+        "tipe": "Pukul (Idiofon)",
+        "tahun": "Abad ke-8",
+        "sejarah": "Bagian dari keluarga Balungan dalam Gamelan, memiliki bilah logam yang paling besar dan menghasilkan nada paling rendah.",
+        "kegunaan": "Memainkan melodi pokok atau balungan dalam komposisi Gamelan.",
+        "gambar": "assets/images/demung.jpg"
+    },
+    {
+        "id": 34,
+        "nama": "Saronen",
+        "daerah": "Jawa Timur (Madura)",
+        "tipe": "Tiup (Aerofon)",
+        "tahun": "Tidak diketahui",
+        "sejarah": "Alat musik tiup dengan lidah getar ganda yang terbuat dari daun siwalan. Memiliki corong dari kayu dan menghasilkan suara yang sangat keras.",
+        "kegunaan": "Sebagai pengiring utama dalam tradisi Karapan Sapi dan upacara adat Madura.",
+        "gambar": "assets/images/saronen.jpg"
+    },
+    {
+        "id": 35,
+        "nama": "Keso-Keso",
+        "daerah": "Sulawesi Selatan",
+        "tipe": "Gesek (Kordofon)",
+        "tahun": "Tidak diketahui",
+        "sejarah": "Alat musik gesek dengan dua senar dan tabung resonansi dari kayu nangka atau tempurung kelapa. Mirip dengan Rebab.",
+        "kegunaan": "Mengiringi lagu-lagu tradisional Bugis dan Makassar.",
+        "gambar": "assets/images/keso_keso.jpg"
+    },
+    {
+        "id": 36,
+        "nama": "Lalove",
+        "daerah": "Sulawesi Tengah",
+        "tipe": "Tiup (Aerofon)",
+        "tahun": "Tidak diketahui",
+        "sejarah": "Suling bambu yang sangat panjang dan dianggap sakral oleh masyarakat Kaili. Biasanya digunakan dalam ritual penyembuhan Balia.",
+        "kegunaan": "Instrumen utama dalam ritual Balia untuk memanggil roh-roh.",
+        "gambar": "assets/images/lalove.jpg"
+    },
+    {
+        "id": 37,
+        "nama": "Foy Doa",
+        "daerah": "Nusa Tenggara Timur (Flores)",
+        "tipe": "Tiup (Aerofon)",
+        "tahun": "Tidak diketahui",
+        "sejarah": "Seruling ganda yang terdiri dari dua batang bambu dengan ukuran berbeda yang dimainkan secara bersamaan oleh satu orang.",
+        "kegunaan": "Sebagai musik hiburan dan dimainkan oleh kaum muda-mudi di Flores.",
+        "gambar": "assets/images/foy_doa.jpg"
+    },
+    {
+        "id": 38,
+        "nama": "Japen",
+        "daerah": "Kalimantan Tengah",
+        "tipe": "Petik (Kordofon)",
+        "tahun": "Tidak diketahui",
+        "sejarah": "Alat musik petik yang merupakan hasil akulturasi dengan budaya Tionghoa. Bentuknya mirip seperti mandolin.",
+        "kegunaan": "Mengiringi lagu-lagu daerah Dayak dan sebagai hiburan.",
+        "gambar": "assets/images/japen.jpg"
     }
 ]
