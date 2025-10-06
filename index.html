@@ -52,6 +52,30 @@
         </div>
     </div>
 
+    <div id="add-modal" class="modal-overlay">
+        <div class="modal-content">
+            <span class="close-button" id="close-add">&times;</span>
+            <h2>Tambah Instrumen Baru</h2>
+            <form id="add-form">
+                <label for="nama">Nama:</label>
+                <input type="text" id="nama" required>
+                <label for="daerah">Daerah:</label>
+                <input type="text" id="daerah" required>
+                <label for="tipe">Tipe:</label>
+                <input type="text" id="tipe" required>
+                <label for="tahun">Tahun:</label>
+                <input type="text" id="tahun" required>
+                <label for="sejarah">Sejarah:</label>
+                <textarea id="sejarah" required></textarea>
+                <label for="kegunaan">Kegunaan:</label>
+                <textarea id="kegunaan" required></textarea>
+                <label for="gambar">Gambar URL:</label>
+                <input type="url" id="gambar" required>
+                <button type="submit">Tambah</button>
+            </form>
+        </div>
+    </div>
+
     <script src="script.js"></script>
 </body>
 </html>
