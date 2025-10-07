@@ -389,6 +389,7 @@ main {
 /* Add Modal Form */
 #add-modal .modal-content {
     max-width: 600px;
+    padding: 2.5rem;
 }
 
 #add-modal h2 {
